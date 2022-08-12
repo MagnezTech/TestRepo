@@ -1,3 +1,4 @@
 zielony
 niebieski
 czerwony
+żółty
